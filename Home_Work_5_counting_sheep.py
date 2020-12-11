@@ -2,7 +2,7 @@ def count_sheeps(sheep):
     """
     This function count True
     in sheep
-    Parameters: sheep
+    Input parameters: sheep
     Output: int
     """
 
